@@ -12,7 +12,6 @@ Many of the reinforcement learning projects use environments from **Gymnasium/Op
 | [`ant-colony-optimization`](./ant-colony-optimization) | Ant Colony Optimization experiments for pathfinding and combinatorial optimization problems. |
 | [`bipedal-walker-v3`](./bipedal-walker-v3) | Reinforcement learning experiments with the Bipedal Walker environment. |
 | [`boids-flocking`](./boids-flocking) | Boids-style flocking simulation based on simple local rules for collective behavior. |
-| [`car-racing-v3`](./car-racing-v3) | Agent training experiments in the Car Racing environment. |
 | [`cartpole-v1`](./cartpole-v1) | Classic CartPole reinforcement learning experiments. |
 | [`flappy-bird-v0`](./flappy-bird-v0) | Game-playing agent experiments using a Flappy Bird-style environment. |
 | [`gym-maze`](./gym-maze) | Maze environment experiments for reinforcement learning and pathfinding. |
